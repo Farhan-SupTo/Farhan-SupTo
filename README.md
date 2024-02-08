@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next Js**
 
-- 👨‍💻 All of my projects are available at [https://farhan-supto.vercel.app/](https://my-details-two.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://farhan-supto.vercel.app/](https://farhan-supto.vercel.app/)
 
 - 💬 Ask me about **MERN,REACT**
 
