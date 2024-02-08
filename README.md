@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React,Next Js**
+- 🌱 I’m currently learning **Next Js**
 
 - 👨‍💻 All of my projects are available at [https://my-details-two.vercel.app/](https://my-details-two.vercel.app/)
 
-- 💬 Ask me about **MERN,React**
+- 💬 Ask me about **MERN,REACT**
 
 - 📫 How to reach me **farhansupto2k17@gmail.com**
 
