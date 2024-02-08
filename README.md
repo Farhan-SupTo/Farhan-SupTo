@@ -1,6 +1,6 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
 <h1 align="center">Hi 👋, I'm Farhan_SupTo</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate front-end developer from Bangladesh. I am a skilled web developer with experience in  HTML, CSS, JavaScript, ES6, and MongoDB. Also, my soft skills are communication, Problem-Solving, Critical Thinking, Teamwork, and Leadership., I know popular frameworks such as React and experience with REST APIs, express, and Firebase frameworks.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan-supto&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-supto" /> </p>
