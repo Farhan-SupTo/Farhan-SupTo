@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif)]
 <h1 align="center">Hi 👋, I'm Farhan_SupTo</h1>
-<h3 align="center">A passionate frontend developer from bangladesh India</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan-supto&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-supto" /> </p>
